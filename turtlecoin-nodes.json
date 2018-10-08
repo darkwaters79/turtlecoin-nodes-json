@@ -25,6 +25,12 @@
       "ssl": false
     },
     {
+      "name": "DarkWaters' Node",
+      "url": "turtlenode.ddns.net",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "D. Smasher's Node",
       "url": "dsmash.turtlenode.online",
       "port": 11898,
